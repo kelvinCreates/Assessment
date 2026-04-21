@@ -90,7 +90,7 @@ export default function HomeSreen() {
               <Ionicons name="person" size={24} color="#8e8e93" />
             </View>
             <View>
-              <Text style={styles.hi}>Hi, @samuel</Text>
+              <Text style={styles.hi}>Hi, Samuel</Text>
               <Text style={styles.subHi}>Start saving now</Text>
             </View>
           </View>
